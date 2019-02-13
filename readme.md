@@ -4,7 +4,7 @@
 This is a fairly simple project.
 
 In this repository in the file `index.html` is a simple example page from
-semantic ui kit.(https://semantic-ui.com/examples/grid.html)[Example Page]
+semantic ui kit. [Example Page](https://semantic-ui.com/examples/grid.html)
 
 You will notice on this page are a bunch of `div`s with the class `column`. In this task,
 you are to write javascript code that will print events to the console whenever the top of
