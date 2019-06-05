@@ -22,8 +22,8 @@ Once a column is visible on the screen all 3 events should have fired. All event
 given column should fire once, and fire once only.
 
 For this exercise you may use any javascript feature that is available on all modern
-desktop browsers (including ecma6 + a polyfill/compiler if necessary). You may not use any 
-libraries, or receive help from another person in completing this exercise. You may however 
+desktop browsers (including ecma6 + a polyfill/compiler if necessary) except for the IntersectionObserver. 
+You may not use any libraries, or receive help from another person in completing this exercise. You may however 
 use any other resource that is available to you in completing this 
 exercise (e.g. O'Reilly books, Stack Overflow).
 
