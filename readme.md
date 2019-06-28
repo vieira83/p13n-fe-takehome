@@ -37,4 +37,5 @@ You will notice that there is a script tag at the bottom of the `index.html` alr
 This take home exercise should take less than one day to complete. Please contact us, if you
 have questions, or run into any problems.
 
-To submit your response to this exercise please make a pull request on the github project.
+To submit your response to this exercise please make a pull request on the github project. Please ensure
+you have implemented all of the requirements for this project before submitting.
